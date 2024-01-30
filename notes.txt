@@ -1,0 +1,2 @@
+1) create product categories 
+2) create product subcategories
